@@ -1,0 +1,32 @@
+.inputStyle{
+    width: 66%;
+    padding: 12px 20px;
+    margin: 15px 70px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 14px;
+    box-sizing: border-box;
+    outline:none;
+    text-align: center;
+    height:30%;
+    margin-top: 14%;;
+  }
+
+
+  .numberdiv{
+    width: 25.5%;
+    height: 39%;
+    margin-top: 8%;
+    border-radius: 3.8%;
+    margin-left: 33%;
+    background-color:gray;
+    display: grid;
+    grid-gap: 30px;
+    grid-template-columns: auto;
+    padding: 10px;
+    position: absolute;
+    overflow:auto;
+    overscroll-behavior: contain;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+  }
